@@ -21,7 +21,7 @@ repositories {
 // BOMを追加
 dependencyManagement {
 	imports {
-		mavenBom("io.awspring.cloud:spring-cloud-aws-dependencies:3.0.2")
+		mavenBom("io.awspring.cloud:spring-cloud-aws-dependencies:3.0.3")
 	}
 }
 
